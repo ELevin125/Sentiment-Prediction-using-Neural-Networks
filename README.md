@@ -11,8 +11,6 @@ There are a total of 5 possible sentimetns that the statement can fall into:
 - "fear"
 - "happy"
 
-Here's a concise description suitable for a README file:
-
 ---
 
 ### Model Description
