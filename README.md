@@ -57,6 +57,8 @@ def build_reg_drop_model(output_options_len=10, input_shape=(10000, )):
     return model
 ```
 
+---
+
 ### Dataset Used
 - **Size** - The dataset consists of a collection of 21 460 entries.
 - **Data Types / Structure** - The dataset consist of a singular CSV file with two string columns.
